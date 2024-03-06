@@ -22,4 +22,4 @@ gulp
 gulp docs
 ```
 
-[Смотреть демо](https://)
+[Смотреть урок](https://www.youtube.com/watch?v=d2ngzLOM01U)
